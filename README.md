@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -83,3 +84,6 @@ Tanpa Database / Starter Kit
 Untuk menjalankan proyek:
 
 php artisan serve
+=======
+# UTS_PWEB_232410103005
+>>>>>>> 98fb57f6aa1c6cef035da95f981124ae085c6cee
